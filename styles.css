@@ -748,8 +748,13 @@
   margin-bottom: 10px;
   color: #1e2949;
   pointer-events: none;
-  text-decoration: none;
 }
+
+.resume-item h5 a {
+  text-decoration: none;
+  color: inherit;
+}
+
 
 .resume-item p {
   font-size: 14px;
