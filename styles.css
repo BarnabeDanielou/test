@@ -748,6 +748,7 @@
   margin-bottom: 10px;
   color: #1e2949;
   pointer-events: none;
+  text-decoration: none;
 }
 
 .resume-item p {
