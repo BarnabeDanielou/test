@@ -806,6 +806,11 @@
     margin-left: 25px;
   }
   
+  .resume-item h5 a {
+    color: #1e2949;
+    text-decoration: none;
+  }
+  
   .resume-item::before {
     left: -6px;
     top: -1px;
